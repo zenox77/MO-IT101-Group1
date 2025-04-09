@@ -1,0 +1,23 @@
+Employee Name: Leila, Martinez
+Employee ID: 10014
+Gross Monthly Salary: 24000.0
+Phone Allowance (Monthly): 500.0
+Clothing Allowance (Monthly): 500.0
+Rice Subsidy (Monthly): 1500.0
+
+--- Weekly Breakdown ---
+Gross Weekly Salary: 6000.0
+Phone Allowance (Weekly): 125.0
+Clothing Allowance (Weekly): 125.0
+Rice Subsidy (Weekly): 375.0
+Weekly Total Allowance: 625.0
+
+--- Weekly Deductions ---
+SSS (Weekly): 62.5
+Philhealth (Weekly): 300.0
+Tax (Weekly): 900.0
+Pag-ibig (Weekly): 120.0
+Total Weekly Deductions: 1382.5
+
+Net Weekly Salary: 5242.5
+Date: 04/09/2025 Time: 12:34:56
